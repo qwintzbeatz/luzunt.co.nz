@@ -1,0 +1,117 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Luzunt Collection</title>
+<meta name="generator" content="WYSIWYG Web Builder 19 Trial Version - https://www.wysiwygwebbuilder.com">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="css/artificialart.css" rel="stylesheet">
+<link href="css/index_2.css" rel="stylesheet">
+<script src="js/jquery-3.7.1.min.js"></script>
+<script src="js/wwb19.min.js"></script>
+<script>
+$(document).ready(function()
+{
+var EmblemJavaScript1 = {
+  init: function(el, str) {
+    var element = document.querySelector(el);
+    var text = str ? str : element.innerHTML;
+    element.innerHTML = '';
+    for (var i = 0; i < text.length; i++) {
+      var letter = text[i];
+      var span = document.createElement('span');
+      var node = document.createTextNode(letter);
+      var r = (360/text.length)*(i);
+      var x = (Math.PI/text.length).toFixed(0) * (i);
+      var y = (Math.PI/text.length).toFixed(0) * (i);
+      span.appendChild(node);
+      span.style.webkitTransform = 'rotateZ('+r+'deg) translate3d('+x+'px,'+y+'px,0)';
+      span.style.transform = 'rotateZ('+r+'deg) translate3d('+x+'px,'+y+'px,0)';
+      element.appendChild(span);
+    }
+  }
+};
+EmblemJavaScript1.init('#JavaScript1');var EmblemJavaScript3 = {
+  init: function(el, str) {
+    var element = document.querySelector(el);
+    var text = str ? str : element.innerHTML;
+    element.innerHTML = '';
+    for (var i = 0; i < text.length; i++) {
+      var letter = text[i];
+      var span = document.createElement('span');
+      var node = document.createTextNode(letter);
+      var r = (360/text.length)*(i);
+      var x = (Math.PI/text.length).toFixed(0) * (i);
+      var y = (Math.PI/text.length).toFixed(0) * (i);
+      span.appendChild(node);
+      span.style.webkitTransform = 'rotateZ('+r+'deg) translate3d('+x+'px,'+y+'px,0)';
+      span.style.transform = 'rotateZ('+r+'deg) translate3d('+x+'px,'+y+'px,0)';
+      element.appendChild(span);
+    }
+  }
+};
+EmblemJavaScript3.init('#JavaScript3');   $(window).on('resize', function()
+   {
+      ResponsiveVideo('intro6LayoutGrid-video');
+   });
+   ResponsiveVideo('intro6LayoutGrid-video');
+});
+</script>
+</head>
+<body>
+<div id="container">
+<div id="wb_Image1">
+<img src="images/luzunt plates.png" id="Image1" alt="" width="195" height="70"></div>
+<div id="wb_JavaScript1">
+<div id="JavaScript1">LUZUNT*STREET*WEAR*</div></div>
+<div id="wb_JavaScript3">
+<div id="JavaScript3">**************************************************</div></div>
+<div id="wb_footer8Text">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Copyright © Luzunt © 2024</span></div>
+<div id="wb_footer9TextMobile">
+<span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Copyright © Luzunt © 2024</span></div>
+<a id="Button1" href="./portfolio.html">Enter</a>
+</div>
+<div style="z-index:7">
+<marquee id="breakingnews" onMouseover="this.scrollAmount=1" onMouseout="this.scrollAmount=6">
+<span style="color:#1E90FF;font-size:16px;font-family:Arial;font-weight:normal;font-style:normal;text-decoration:none">Luzunt 1.0:*************************** R.I.P ***Brotha Jah*** A.K.A ***CKRUL***PRINCE OF WIRI******************************!</span>
+</marquee>
+<script>
+function initBreakingNews()
+{
+   var docWidth = 800;
+
+   if (typeof window.innerWidth != 'undefined')
+   {
+      docWidth = window.innerWidth;
+   }
+   else 
+   if (typeof document.documentElement != 'undefined' && typeof document.documentElement.clientWidth != 'undefined' && document.documentElement.clientWidth != 0)
+   {
+      docWidth = document.documentElement.clientWidth;
+   }
+   else
+   {
+      docWidth = document.getElementsByTagName('body')[0].clientWidth;
+   }
+   document.getElementById("breakingnews").style.width = docWidth.toString() + "px";
+   document.getElementById("breakingnews").scrollAmount = 6;
+   document.getElementById("breakingnews").scrollDelay = 20;
+   document.getElementById("breakingnews").loop = -1;
+}
+if (document.getElementById)
+{
+   window.onload = initBreakingNews;
+   window.onresize = initBreakingNews;
+}
+</script>
+</div>
+<div id="wb_intro6LayoutGrid">
+<div id="intro6LayoutGrid-video"><iframe src="https://www.youtube.com/embed/b2jN1T4a-Kk?controls=0&showinfo=0&rel=0&autoplay=1&mute=1&loop=1&playlist=b2jN1T4a-Kk" frameborder="0" allowfullscreen></iframe></div>
+<div id="intro6LayoutGrid">
+<div class="col-1">
+</div>
+</div>
+</div>
+</body>
+</html>
