@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Testimonials</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com"/>
+	<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/testimonials</id>
+	<updated>2024-09-29T17:14:10+00:00</updated>
+	<author>
+		<name>Modestro</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/testimonials?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Jack Thompson</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/testimonials/48-jack-thompson"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/testimonials/48-jack-thompson</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;blockquote&gt;&lt;p&gt;Your service is often a source of inspiration. It simplifies our lives and makes usually complicated processes easy.&lt;/p&gt;&lt;/blockquote&gt;</summary>
+		<content type="html">&lt;blockquote&gt;&lt;p&gt;Your service is often a source of inspiration. It simplifies our lives and makes usually complicated processes easy.&lt;/p&gt;&lt;/blockquote&gt;</content>
+		<category term="Testimonials" />
+	</entry>
+	<entry>
+		<title>Kenneth Edwards</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/testimonials/49-kenneth-edwards"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/testimonials/49-kenneth-edwards</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;blockquote&gt;&lt;p&gt;Your service has really cut my working time by 80%. It gives me goosebumps thinking about all that extra time I have.&lt;/p&gt;&lt;/blockquote&gt;</summary>
+		<content type="html">&lt;blockquote&gt;&lt;p&gt;Your service has really cut my working time by 80%. It gives me goosebumps thinking about all that extra time I have.&lt;/p&gt;&lt;/blockquote&gt;</content>
+		<category term="Testimonials" />
+	</entry>
+	<entry>
+		<title>Adam Cooper</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/testimonials/50-adam-cooper"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/testimonials/50-adam-cooper</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;blockquote&gt;&lt;p&gt;The guys at your company are amazing! Your service has added a great value to my life. I love that I can jump to your site any time and have access to support 24/7.&lt;/p&gt;&lt;/blockquote&gt;</summary>
+		<content type="html">&lt;blockquote&gt;&lt;p&gt;The guys at your company are amazing! Your service has added a great value to my life. I love that I can jump to your site any time and have access to support 24/7.&lt;/p&gt;&lt;/blockquote&gt;</content>
+		<category term="Testimonials" />
+	</entry>
+	<entry>
+		<title>Adam Smith</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/testimonials/103-adam-smith"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/testimonials/103-adam-smith</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;blockquote&gt;&lt;p&gt;I just don't know how to describe your services... They are extraordinary! I am quite happy with them! Just keep up going this way! &lt;/p&gt;&lt;/blockquote&gt;</summary>
+		<content type="html">&lt;blockquote&gt;&lt;p&gt;I just don't know how to describe your services... They are extraordinary! I am quite happy with them! Just keep up going this way! &lt;/p&gt;&lt;/blockquote&gt;</content>
+		<category term="Testimonials" />
+	</entry>
+	<entry>
+		<title>Nick Harris</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/testimonials/104-nick-harris"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/testimonials/104-nick-harris</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;blockquote&gt;&lt;p&gt;Great organization!! Your prompt answer became a pleasant surprise for me. You’ve rendered an invaluable service! Thank you very much! &lt;/p&gt;&lt;/blockquote&gt;</summary>
+		<content type="html">&lt;blockquote&gt;&lt;p&gt;Great organization!! Your prompt answer became a pleasant surprise for me. You’ve rendered an invaluable service! Thank you very much! &lt;/p&gt;&lt;/blockquote&gt;</content>
+		<category term="Testimonials" />
+	</entry>
+	<entry>
+		<title>John Anderson</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/testimonials/105-john-anderson"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/testimonials/105-john-anderson</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;blockquote&gt;&lt;p&gt;I just want to thank you for your help. I was so pleased and grateful. Keep up the excellent work. Your site provides the best support I have ever encountered. &lt;/p&gt;&lt;/blockquote&gt;</summary>
+		<content type="html">&lt;blockquote&gt;&lt;p&gt;I just want to thank you for your help. I was so pleased and grateful. Keep up the excellent work. Your site provides the best support I have ever encountered. &lt;/p&gt;&lt;/blockquote&gt;</content>
+		<category term="Testimonials" />
+	</entry>
+</feed>

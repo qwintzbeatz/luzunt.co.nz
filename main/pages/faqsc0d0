@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>FAQs</title>
+		<description><![CDATA[]]></description>
+		<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/faqs</link>
+		<lastBuildDate>Sun, 29 Sep 2024 17:14:02 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/faqs?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>6. Do I need an account and what are the benefits?</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/faqs/51-6-do-i-need-an-account-and-what-are-the-benefits</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/faqs/51-6-do-i-need-an-account-and-what-are-the-benefits</guid>
+			<description><![CDATA[<p>It's not required to create an account. But, having an account provides easier checkout, the ability to create and send a wishlist, and a customized shopping experience.</p>]]></description>
+			<category>FAQs</category>
+			<pubDate>Fri, 30 Nov 2018 10:36:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>5. How long will my order take to be delivered?</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/faqs/52-5-how-long-will-my-order-take-to-be-delivered</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/faqs/52-5-how-long-will-my-order-take-to-be-delivered</guid>
+			<description><![CDATA[<p>Delivery times will depend on your location. Once payment is confirmed your order will be packaged. Delivery can be expected within 10 business days.</p>]]></description>
+			<category>FAQs</category>
+			<pubDate>Fri, 30 Nov 2018 10:36:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>4. Can I return an item?</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/faqs/53-4-can-i-return-an-item</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/faqs/53-4-can-i-return-an-item</guid>
+			<description><![CDATA[<p>Please visit our Returns & Exchanges page for more information.</p>]]></description>
+			<category>FAQs</category>
+			<pubDate>Fri, 30 Nov 2018 10:36:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>3. Can I track my order?</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/faqs/54-3-can-i-track-my-order</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/faqs/54-3-can-i-track-my-order</guid>
+			<description><![CDATA[<p>Yes, you can! After placing your order you will receive an order confirmation via email. Each order starts production 24 hours after your order is placed. Within 72 hours of you placing your order, you will receive an expected delivery date. When the order ships, you will receive another email with the tracking number and a link to trace the order online with the carrier.</p>]]></description>
+			<category>FAQs</category>
+			<pubDate>Fri, 30 Nov 2018 10:36:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>2. How can I pay for my order?</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/faqs/55-2-how-can-i-pay-for-my-order</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/faqs/55-2-how-can-i-pay-for-my-order</guid>
+			<description><![CDATA[<p>We accept Visa, MasterCard, and American Express credit and debit cards for your convenience.</p>]]></description>
+			<category>FAQs</category>
+			<pubDate>Fri, 30 Nov 2018 10:36:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>1. How can I change something in my order?</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/faqs/56-1-how-can-i-change-something-in-my-order</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/faqs/56-1-how-can-i-change-something-in-my-order</guid>
+			<description><![CDATA[<p>If you need to change something your order, please contact us immediately. We usually process orders within 2-4 hours, and once we have processed your order, we will be unable to make any changes.</p>]]></description>
+			<category>FAQs</category>
+			<pubDate>Fri, 30 Nov 2018 10:36:49 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

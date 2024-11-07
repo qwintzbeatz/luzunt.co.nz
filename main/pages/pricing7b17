@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Pricing</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com"/>
+	<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/pricing</id>
+	<updated>2024-09-29T17:14:01+00:00</updated>
+	<author>
+		<name>Modestro</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/pricing?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Simple Plan</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/pricing/35-detailed/75-simple-plan"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/pricing/35-detailed/75-simple-plan</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p class=&quot;price&quot;&gt;$59.99&lt;/small&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;1 person&lt;/li&gt;
+	&lt;li&gt;15 minute session&lt;/li&gt;
+	&lt;li&gt;10 digital images&lt;/li&gt;
+	&lt;li&gt;Photo release&lt;/li&gt;
+	&lt;li&gt;DVD slideshow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/#&quot; class=&quot;btn&quot;&gt;buy now&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p class=&quot;price&quot;&gt;$59.99&lt;/small&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;1 person&lt;/li&gt;
+	&lt;li&gt;15 minute session&lt;/li&gt;
+	&lt;li&gt;10 digital images&lt;/li&gt;
+	&lt;li&gt;Photo release&lt;/li&gt;
+	&lt;li&gt;DVD slideshow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/#&quot; class=&quot;btn&quot;&gt;buy now&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Pricing table" />
+	</entry>
+	<entry>
+		<title>Business Plan</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/pricing/35-detailed/76-business-plan"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/pricing/35-detailed/76-business-plan</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p class=&quot;price&quot;&gt;$79.99&lt;/small&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;1-3 person(s)&lt;/li&gt;
+	&lt;li&gt;30 minute session&lt;/li&gt;
+	&lt;li&gt;20 digital images&lt;/li&gt;
+	&lt;li&gt;Photo release&lt;/li&gt;
+	&lt;li&gt;Art Book&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/#&quot; class=&quot;btn&quot;&gt;buy now&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p class=&quot;price&quot;&gt;$79.99&lt;/small&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;1-3 person(s)&lt;/li&gt;
+	&lt;li&gt;30 minute session&lt;/li&gt;
+	&lt;li&gt;20 digital images&lt;/li&gt;
+	&lt;li&gt;Photo release&lt;/li&gt;
+	&lt;li&gt;Art Book&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/#&quot; class=&quot;btn&quot;&gt;buy now&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Pricing table" />
+	</entry>
+	<entry>
+		<title>Gold Plan</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/pricing/35-detailed/77-gold-plan"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/pricing/35-detailed/77-gold-plan</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p class=&quot;price&quot;&gt;$99.99&lt;/small&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;1-2 person(s)&lt;/li&gt;
+	&lt;li&gt;20 minute session&lt;/li&gt;
+	&lt;li&gt;15 digital images&lt;/li&gt;
+	&lt;li&gt;Photo release&lt;/li&gt;
+	&lt;li&gt;Storyboards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/#&quot; class=&quot;btn&quot;&gt;buy now&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p class=&quot;price&quot;&gt;$99.99&lt;/small&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;1-2 person(s)&lt;/li&gt;
+	&lt;li&gt;20 minute session&lt;/li&gt;
+	&lt;li&gt;15 digital images&lt;/li&gt;
+	&lt;li&gt;Photo release&lt;/li&gt;
+	&lt;li&gt;Storyboards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/#&quot; class=&quot;btn&quot;&gt;buy now&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Pricing table" />
+	</entry>
+	<entry>
+		<title>Platinum Plan</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/pricing/35-detailed/78-platinum-plan"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/pricing/35-detailed/78-platinum-plan</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p class=&quot;price&quot;&gt;$129.99&lt;/small&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;1-6 person(s)&lt;/li&gt;
+	&lt;li&gt;45 minute session&lt;/li&gt;
+	&lt;li&gt;30 digital images&lt;/li&gt;
+	&lt;li&gt;Photo release&lt;/li&gt;
+	&lt;li&gt;Facebook cover&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/#&quot; class=&quot;btn&quot;&gt;buy now&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p class=&quot;price&quot;&gt;$129.99&lt;/small&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;1-6 person(s)&lt;/li&gt;
+	&lt;li&gt;45 minute session&lt;/li&gt;
+	&lt;li&gt;30 digital images&lt;/li&gt;
+	&lt;li&gt;Photo release&lt;/li&gt;
+	&lt;li&gt;Facebook cover&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/#&quot; class=&quot;btn&quot;&gt;buy now&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Pricing table" />
+	</entry>
+	<entry>
+		<title>Simple Plan</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/pricing/36-simple/88-simple-plan"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/pricing/36-simple/88-simple-plan</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p class=&quot;price&quot;&gt;$59.99&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;This plan will perfectly suit you if you need just a simple photo shoot for your personal needs. It is also a good choice for those who don’t want to overpay for photo shooting and editing services.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/#&quot; class=&quot;btn&quot;&gt;buy now&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p class=&quot;price&quot;&gt;$59.99&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;This plan will perfectly suit you if you need just a simple photo shoot for your personal needs. It is also a good choice for those who don’t want to overpay for photo shooting and editing services.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/#&quot; class=&quot;btn&quot;&gt;buy now&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Pricing table" />
+	</entry>
+	<entry>
+		<title>Business Plan</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/pricing/36-simple/89-business-plan"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/pricing/36-simple/89-business-plan</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p class=&quot;price&quot;&gt;$79.99&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Professional pricing plan offers a wider amount of services if compared with a Personal plan. It offers a great variety of photo services that are specifically tailored for any kind of companies.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/#&quot; class=&quot;btn&quot;&gt;buy now&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p class=&quot;price&quot;&gt;$79.99&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Professional pricing plan offers a wider amount of services if compared with a Personal plan. It offers a great variety of photo services that are specifically tailored for any kind of companies.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/#&quot; class=&quot;btn&quot;&gt;buy now&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Pricing table" />
+	</entry>
+	<entry>
+		<title>Gold Plan</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/pricing/36-simple/90-gold-plan"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/pricing/36-simple/90-gold-plan</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p class=&quot;price&quot;&gt;$129.99&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;If you are looking for something more than the Professional plan, this one may suit you. Besides of the services described in the price list, it also includes a set of photo editing services.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/#&quot; class=&quot;btn&quot;&gt;buy now&lt;/a&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p class=&quot;price&quot;&gt;$129.99&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;If you are looking for something more than the Professional plan, this one may suit you. Besides of the services described in the price list, it also includes a set of photo editing services.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/#&quot; class=&quot;btn&quot;&gt;buy now&lt;/a&gt;&lt;/p&gt;</content>
+		<category term="Pricing table" />
+	</entry>
+</feed>

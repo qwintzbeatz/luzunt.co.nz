@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Site map</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com"/>
+	<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/site-map/31-our-latest-works</id>
+	<updated>2024-09-29T17:19:35+00:00</updated>
+	<author>
+		<name>Modestro</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/site-map/31-our-latest-works?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Popular</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/site-map/31-our-latest-works/66-in-hac-habitasse"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/site-map/31-our-latest-works/66-in-hac-habitasse</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/portfolio/project-thumb1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Here you will find artworks that are most frequently viewed and liked by site visitors.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/portfolio/project-thumb1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Here you will find artworks that are most frequently viewed and liked by site visitors.&lt;/p&gt;
+</content>
+		<category term="Our Latest Works" />
+	</entry>
+	<entry>
+		<title>Architecture</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/site-map/31-our-latest-works/67-proin-dolor-metus"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/site-map/31-our-latest-works/67-proin-dolor-metus</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/portfolio/project-thumb2.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Here we feature artworks related to architecture.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/portfolio/project-thumb2.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Here we feature artworks related to architecture.&lt;/p&gt;
+</content>
+		<category term="Our Latest Works" />
+	</entry>
+	<entry>
+		<title>Art &amp; Illustration</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/site-map/31-our-latest-works/68-fusce-posuere-lacus"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/site-map/31-our-latest-works/68-fusce-posuere-lacus</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/portfolio/project-thumb3.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;An illustration is a visual approach to a verbal story.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/portfolio/project-thumb3.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;An illustration is a visual approach to a verbal story.&lt;/p&gt;
+</content>
+		<category term="Our Latest Works" />
+	</entry>
+	<entry>
+		<title>Web &amp; Interactive</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/site-map/31-our-latest-works/69-maecenas-non-odio"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/site-map/31-our-latest-works/69-maecenas-non-odio</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/portfolio/project-thumb4.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Best website designs showcased.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/portfolio/project-thumb4.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Best website designs showcased.&lt;/p&gt;
+</content>
+		<category term="Our Latest Works" />
+	</entry>
+	<entry>
+		<title>Promotional</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/site-map/31-our-latest-works/70-curabitur-ac-ante"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/site-map/31-our-latest-works/70-curabitur-ac-ante</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/portfolio/project-thumb5.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Promotion can be done by different media. Here you will see the artistic approach to promotion.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/portfolio/project-thumb5.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Promotion can be done by different media. Here you will see the artistic approach to promotion.&lt;/p&gt;
+</content>
+		<category term="Our Latest Works" />
+	</entry>
+	<entry>
+		<title>Games &amp; Entertainment</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/site-map/31-our-latest-works/71-quisque-est-velit"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/pages/site-map/31-our-latest-works/71-quisque-est-velit</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/portfolio/project-thumb6.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Traditional art forms are things you cannot win; you can only experience them.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/portfolio/project-thumb6.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Traditional art forms are things you cannot win; you can only experience them.&lt;/p&gt;
+</content>
+		<category term="Our Latest Works" />
+	</entry>
+</feed>

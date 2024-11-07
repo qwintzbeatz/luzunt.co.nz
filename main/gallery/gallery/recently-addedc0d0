@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[]]></description>
+		<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/gallery/gallery/recently-added</link>
+		<lastBuildDate>Sun, 29 Sep 2024 17:17:09 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/gallery/gallery/recently-added?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>gallery-image23</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_recently_added_6/gallery-image23_20160718_1749868961.jpg</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_recently_added_6/gallery-image23_20160718_1749868961.jpg</guid>
+			<description><![CDATA[]]></description>
+			<category>6</category>
+			<pubDate>Mon, 18 Jul 2016 05:44:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>gallery-image24</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_recently_added_6/gallery-image24_20160718_1443424778.jpg</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_recently_added_6/gallery-image24_20160718_1443424778.jpg</guid>
+			<description><![CDATA[]]></description>
+			<category>6</category>
+			<pubDate>Mon, 18 Jul 2016 05:44:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>gallery-image22</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_recently_added_6/gallery-image22_20160718_1049080860.jpg</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_recently_added_6/gallery-image22_20160718_1049080860.jpg</guid>
+			<description><![CDATA[]]></description>
+			<category>6</category>
+			<pubDate>Mon, 18 Jul 2016 05:43:59 +0000</pubDate>
+		</item>
+		<item>
+			<title>gallery-image20</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_recently_added_6/gallery-image20_20160718_1155288560.jpg</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_recently_added_6/gallery-image20_20160718_1155288560.jpg</guid>
+			<description><![CDATA[]]></description>
+			<category>6</category>
+			<pubDate>Mon, 18 Jul 2016 05:43:58 +0000</pubDate>
+		</item>
+		<item>
+			<title>gallery-image21</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_recently_added_6/gallery-image21_20160718_1014597894.jpg</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_recently_added_6/gallery-image21_20160718_1014597894.jpg</guid>
+			<description><![CDATA[]]></description>
+			<category>6</category>
+			<pubDate>Mon, 18 Jul 2016 05:43:58 +0000</pubDate>
+		</item>
+		<item>
+			<title>gallery-image19</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_recently_added_6/gallery-image19_20160718_1694705972.jpg</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_recently_added_6/gallery-image19_20160718_1694705972.jpg</guid>
+			<description><![CDATA[]]></description>
+			<category>6</category>
+			<pubDate>Mon, 18 Jul 2016 05:43:57 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

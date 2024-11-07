@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[]]></description>
+		<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/gallery/gallery/promotional</link>
+		<lastBuildDate>Sun, 29 Sep 2024 17:17:00 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/gallery/gallery/promotional?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>gallery-image18</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_promotional_5/gallery-image18_20160718_1228850941.jpg</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_promotional_5/gallery-image18_20160718_1228850941.jpg</guid>
+			<description><![CDATA[]]></description>
+			<category>5</category>
+			<pubDate>Mon, 18 Jul 2016 05:43:52 +0000</pubDate>
+		</item>
+		<item>
+			<title>gallery-image17</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_promotional_5/gallery-image17_20160718_1448043519.jpg</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_promotional_5/gallery-image17_20160718_1448043519.jpg</guid>
+			<description><![CDATA[]]></description>
+			<category>5</category>
+			<pubDate>Mon, 18 Jul 2016 05:43:51 +0000</pubDate>
+		</item>
+		<item>
+			<title>gallery-image15</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_promotional_5/gallery-image15_20160718_1218571739.jpg</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_promotional_5/gallery-image15_20160718_1218571739.jpg</guid>
+			<description><![CDATA[]]></description>
+			<category>5</category>
+			<pubDate>Mon, 18 Jul 2016 05:43:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>gallery-image16</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_promotional_5/gallery-image16_20160718_1599216765.jpg</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_promotional_5/gallery-image16_20160718_1599216765.jpg</guid>
+			<description><![CDATA[]]></description>
+			<category>5</category>
+			<pubDate>Mon, 18 Jul 2016 05:43:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>gallery-image14</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_promotional_5/gallery-image14_20160718_1364089424.jpg</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_promotional_5/gallery-image14_20160718_1364089424.jpg</guid>
+			<description><![CDATA[]]></description>
+			<category>5</category>
+			<pubDate>Mon, 18 Jul 2016 05:43:49 +0000</pubDate>
+		</item>
+		<item>
+			<title>gallery-image13</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_promotional_5/gallery-image13_20160718_1964125444.jpg</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_promotional_5/gallery-image13_20160718_1964125444.jpg</guid>
+			<description><![CDATA[]]></description>
+			<category>5</category>
+			<pubDate>Mon, 18 Jul 2016 05:43:48 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

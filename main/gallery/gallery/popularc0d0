@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Gallery</title>
+		<description><![CDATA[]]></description>
+		<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/gallery/gallery/popular</link>
+		<lastBuildDate>Sun, 29 Sep 2024 17:16:39 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/gallery/gallery/popular?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>gallery-image6</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_popular_3/gallery-image6_20160718_1270225351.jpg</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_popular_3/gallery-image6_20160718_1270225351.jpg</guid>
+			<description><![CDATA[]]></description>
+			<category>3</category>
+			<pubDate>Mon, 18 Jul 2016 05:43:36 +0000</pubDate>
+		</item>
+		<item>
+			<title>gallery-image5</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_popular_3/gallery-image5_20160718_1601673219.jpg</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_popular_3/gallery-image5_20160718_1601673219.jpg</guid>
+			<description><![CDATA[]]></description>
+			<category>3</category>
+			<pubDate>Mon, 18 Jul 2016 05:43:35 +0000</pubDate>
+		</item>
+		<item>
+			<title>gallery-image3</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_popular_3/gallery-image3_20160718_1476251566.jpg</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_popular_3/gallery-image3_20160718_1476251566.jpg</guid>
+			<description><![CDATA[]]></description>
+			<category>3</category>
+			<pubDate>Mon, 18 Jul 2016 05:43:34 +0000</pubDate>
+		</item>
+		<item>
+			<title>gallery-image4</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_popular_3/gallery-image4_20160718_1294689924.jpg</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_popular_3/gallery-image4_20160718_1294689924.jpg</guid>
+			<description><![CDATA[]]></description>
+			<category>3</category>
+			<pubDate>Mon, 18 Jul 2016 05:43:34 +0000</pubDate>
+		</item>
+		<item>
+			<title>gallery-image2</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_popular_3/gallery-image2_20160718_1997715700.jpg</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_popular_3/gallery-image2_20160718_1997715700.jpg</guid>
+			<description><![CDATA[]]></description>
+			<category>3</category>
+			<pubDate>Mon, 18 Jul 2016 05:43:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>gallery-image1</title>
+			<link>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_popular_3/gallery-image1_20160718_1825838538.jpg</link>
+			<guid isPermaLink="true">https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/joomgallery/details/gallery_2/gallery_popular_3/gallery-image1_20160718_1825838538.jpg</guid>
+			<description><![CDATA[]]></description>
+			<category>3</category>
+			<pubDate>Mon, 18 Jul 2016 05:43:32 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
