@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Blog</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com"/>
+	<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/blog/49-upcoming-events</id>
+	<updated>2024-09-29T17:19:29+00:00</updated>
+	<author>
+		<name>Modestro</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/blog/49-upcoming-events?format=feed&amp;type=atom"/>
+	<entry>
+		<title>James R. Bernard is going to visit Los Angeles this spring</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/blog/49-upcoming-events/14-james-r-bernard-is-going-to-visit-los-angeles-this-spring"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/blog/49-upcoming-events/14-james-r-bernard-is-going-to-visit-los-angeles-this-spring</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/blog/blog-img5.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;James Richard Bernard, the genius of contemporary art, is visiting Los Angeles with his new exhibition at LA Art Center on March, 30. The exhibition is called &quot;The Evolving World&quot;, and introduces an absolutely new vision of the modern world including various spheres of our life - social, political, economical, cultural etc. This event will also feature the showcase of artworks by Bernard's colleagues and apprentices who form The American School of Contemporary Art.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/blog/blog-img5.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;James Richard Bernard, the genius of contemporary art, is visiting Los Angeles with his new exhibition at LA Art Center on March, 30. The exhibition is called &quot;The Evolving World&quot;, and introduces an absolutely new vision of the modern world including various spheres of our life - social, political, economical, cultural etc. This event will also feature the showcase of artworks by Bernard's colleagues and apprentices who form The American School of Contemporary Art.&lt;/p&gt;
+</content>
+		<category term="Upcoming events" />
+	</entry>
+</feed>

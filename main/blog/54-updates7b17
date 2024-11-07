@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Blog</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com"/>
+	<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/blog/54-updates</id>
+	<updated>2024-09-29T17:19:34+00:00</updated>
+	<author>
+		<name>Modestro</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/blog/54-updates?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Jerry C. Lewis has a thought on changing the world we live in</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/blog/54-updates/120-jerry-c-lewis-has-a-thought-on-changing-the-world-we-live-in"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/blog/54-updates/120-jerry-c-lewis-has-a-thought-on-changing-the-world-we-live-in</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/blog/blog-img1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Recently our partner, Jerry Conrad Lewis has revealed some of his own global plans alongside with a new set of social measures, designed to improve the world we live in.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/blog/blog-img1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Recently our partner, Jerry Conrad Lewis has revealed some of his own global plans alongside with a new set of social measures, designed to improve the world we live in.&lt;/p&gt;
+</content>
+		<category term="Updates" />
+	</entry>
+</feed>

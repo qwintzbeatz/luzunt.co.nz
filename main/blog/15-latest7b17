@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Blog</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com"/>
+	<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/blog/15-latest</id>
+	<updated>2024-09-29T17:19:27+00:00</updated>
+	<author>
+		<name>Modestro</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/blog/15-latest?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Improving your confidence and self-defense skills</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/blog/15-latest/13-improving-your-confidence-and-self-defense-skills"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/blog/15-latest/13-improving-your-confidence-and-self-defense-skills</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/blog/blog-img6.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Today we would like to touch the topic which is gaining popularity among employees of big and small companies as well as students, teachers and other strata of the population.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/blog/blog-img6.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Today we would like to touch the topic which is gaining popularity among employees of big and small companies as well as students, teachers and other strata of the population.&lt;/p&gt;
+</content>
+		<category term="Latest" />
+	</entry>
+</feed>

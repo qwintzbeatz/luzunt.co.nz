@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Blog</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com"/>
+	<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/blog/12-public</id>
+	<updated>2024-09-29T17:18:26+00:00</updated>
+	<author>
+		<name>Modestro</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/blog/12-public?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Cost management as an element of financial management</title>
+		<link rel="alternate" type="text/html" href="https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/blog/12-public/9-cost-management-as-an-element-of-financial-management"/>
+		<published>2018-11-30T10:36:49+00:00</published>
+		<updated>2018-11-30T10:36:49+00:00</updated>
+		<id>https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/index.php/blog/12-public/9-cost-management-as-an-element-of-financial-management</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/blog/blog-img10.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Modern business is often observed in a complex manner. Like any organism requires a lot of elements to function correctly, a company contains some departments that play vital roles in its successful functioning. Work of these departments may be connected with finances, and if it is, then cost management becomes important for flawless functioning of such departments.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://livedemo00-joomla.template-help.com/joomla_prod-16616_v1/images/blog/blog-img10.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Modern business is often observed in a complex manner. Like any organism requires a lot of elements to function correctly, a company contains some departments that play vital roles in its successful functioning. Work of these departments may be connected with finances, and if it is, then cost management becomes important for flawless functioning of such departments.&lt;/p&gt;
+</content>
+		<category term="Public" />
+	</entry>
+</feed>
